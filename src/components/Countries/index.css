@@ -14,3 +14,7 @@
   scrollbar-width: thin;
   scrollbar-color: gray lightgray;
 }
+
+.app-container {
+  background-color: #161624;
+}

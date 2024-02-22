@@ -105,7 +105,7 @@ class Countries extends Component {
     const {countriesList} = this.state
     const visitedCountries = countriesList.filter(country => country.isVisited)
     return (
-      <div>
+      <div className="app-container">
         <h1>Countries</h1>
         <ul className="country-items">
           {countriesList.map(eachCountry => (
