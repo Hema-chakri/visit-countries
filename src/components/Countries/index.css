@@ -9,5 +9,8 @@
 .country-items {
   display: flex;
   flex-direction: column;
-  transform: scaleY();
+  height: 300px;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+  scrollbar-color: gray lightgray;
 }
