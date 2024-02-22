@@ -1,0 +1,13 @@
+.list-item {
+  list-style-type: none;
+  margin-right: 5px;
+}
+
+.name-and-remove-button {
+  display: flex;
+}
+
+.flag-image {
+  height: 200px;
+  width: 200px;
+}

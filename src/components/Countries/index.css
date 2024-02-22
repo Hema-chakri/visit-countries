@@ -1,0 +1,13 @@
+.countryName-visit-container {
+  display: flex;
+}
+
+.country-details {
+  display: flex;
+}
+
+.country-items {
+  display: flex;
+  flex-direction: column;
+  transform: scaleY();
+}
